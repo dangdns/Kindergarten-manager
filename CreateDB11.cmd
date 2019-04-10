@@ -1,0 +1,1 @@
+SQLCMD -S DESKTOP-Q75A6S2 -E -i CreateDB11.sql
